@@ -1,5 +1,6 @@
 # tar-tool-fb
 Python program tar-tool rewritten in free basic.
+**Still requires tar to run properly.
 
 ## Recommended installation procedure (for Linux)
 
