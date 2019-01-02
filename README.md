@@ -44,4 +44,6 @@ sudo apt-get install libx11-dev:i386 libxext-dev:i386 libxrender-dev:i386 libxra
 ```
 fdc tar-tool-fb.bas
 ```
-2. Open the program by double-clicking on it or opening it via Terminal on Linux.
+# Running tar-tool-fb
+
+1. Open the program by double-clicking on it or opening it via Terminal on Linux.
